@@ -1,0 +1,37 @@
+#wrapper{
+	width: 1349px;
+	height: 653px;
+}
+
+.slider{
+	width: 1349px;
+	overflow: hidden;
+}
+
+.slider ul{
+	overflow: hidden;
+}
+
+.slider ul li{
+	width: 1349px;
+	height: 653px;
+	float: left;
+}
+#title{
+	font-size:50px;
+	font-family: 'Roboto',Arial,sans-serif;
+	color:#c9203f;
+	position: absolute;
+	left: 340px;
+	top: 160px;
+}
+
+#search{
+	height: 30px;
+	width: 400px;
+	font-size: 20px;
+	position: absolute;
+	left: 490px;
+	top: 250px;
+}
+
